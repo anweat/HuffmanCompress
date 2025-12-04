@@ -1,0 +1,6 @@
+/.cache
+/application.log
+/build
+/build_test.bat
+/CMakeLists.txt.user
+/output

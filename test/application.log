@@ -1,0 +1,132 @@
+[2025-12-05 00:03:03] [INFO] 开始BMP到HUF转换任务: D:\Desktop\bmp\test1.bmp -> D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:03:03] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:03:03] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:03:03] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:03:03] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:03:03] [INFO] 正在保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:03:03] [INFO] 开始写入HUF键值对数据
+[2025-12-05 00:03:03] [INFO] 成功写入HUF键值对数据
+[2025-12-05 00:03:03] [INFO] 开始写入HUF位集数据
+[2025-12-05 00:03:03] [INFO] 成功写入HUF位集数据
+[2025-12-05 00:03:03] [INFO] 成功保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:03:03] [INFO] 完成BMP到HUF转换任务
+[2025-12-05 00:03:03] [INFO] 正在加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:03:03] [INFO] 开始读取HUF键值对数据
+[2025-12-05 00:03:03] [INFO] 成功读取HUF键值对数据
+[2025-12-05 00:03:03] [INFO] 开始读取HUF位集数据
+[2025-12-05 00:03:03] [INFO] 成功读取HUF位集数据
+[2025-12-05 00:03:03] [INFO] 成功加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:03:03] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:03:03] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:03:03] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:03:03] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:09:33] [INFO] 开始BMP到HUF转换任务: D:\Desktop\bmp\test1.bmp -> D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:09:33] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:09:33] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:09:33] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:09:33] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:09:33] [INFO] 正在保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:09:33] [INFO] 开始写入HUF键值对数据
+[2025-12-05 00:09:33] [INFO] 成功写入HUF键值对数据
+[2025-12-05 00:09:33] [INFO] 开始写入HUF位集数据
+[2025-12-05 00:09:33] [INFO] 成功写入HUF位集数据
+[2025-12-05 00:09:33] [INFO] 成功保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:09:33] [INFO] 完成BMP到HUF转换任务
+[2025-12-05 00:09:33] [INFO] 正在加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:09:33] [INFO] 开始读取HUF键值对数据
+[2025-12-05 00:09:33] [INFO] 成功读取HUF键值对数据
+[2025-12-05 00:09:33] [INFO] 开始读取HUF位集数据
+[2025-12-05 00:09:33] [INFO] 成功读取HUF位集数据
+[2025-12-05 00:09:33] [INFO] 成功加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:09:33] [ERROR] Decoded count not equal to code number
+[2025-12-05 00:25:50] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:25:50] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:25:50] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:25:50] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:25:51] [INFO] 开始BMP到HUF转换任务: D:\Desktop\bmp\test1.bmp -> D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:25:51] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:25:51] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:25:51] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:25:51] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:25:51] [INFO] 正在保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:25:51] [INFO] 开始写入HUF键值对数据
+[2025-12-05 00:25:51] [INFO] 成功写入HUF键值对数据
+[2025-12-05 00:25:51] [INFO] 开始写入HUF位集数据
+[2025-12-05 00:25:51] [INFO] 成功写入HUF位集数据
+[2025-12-05 00:25:51] [INFO] 成功保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:25:51] [INFO] 完成BMP到HUF转换任务
+[2025-12-05 00:25:51] [INFO] 正在加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:25:51] [INFO] 开始读取HUF键值对数据
+[2025-12-05 00:25:51] [INFO] 成功读取HUF键值对数据
+[2025-12-05 00:25:51] [INFO] 开始读取HUF位集数据
+[2025-12-05 00:25:51] [INFO] 成功读取HUF位集数据
+[2025-12-05 00:25:51] [INFO] 成功加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:25:51] [ERROR] Decoded count not equal to code number
+[2025-12-05 00:32:24] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:32:24] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:32:24] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:32:24] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:32:24] [INFO] 开始BMP到HUF转换任务: D:\Desktop\bmp\test1.bmp -> D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:32:24] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:32:24] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:32:24] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:32:24] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:32:24] [INFO] 正在保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:32:24] [INFO] 开始写入HUF键值对数据
+[2025-12-05 00:32:24] [INFO] 成功写入HUF键值对数据
+[2025-12-05 00:32:24] [INFO] 开始写入HUF位集数据
+[2025-12-05 00:32:24] [INFO] 成功写入HUF位集数据
+[2025-12-05 00:32:24] [INFO] 成功保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:32:24] [INFO] 完成BMP到HUF转换任务
+[2025-12-05 00:32:24] [INFO] 正在加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:32:24] [INFO] 开始读取HUF键值对数据
+[2025-12-05 00:32:24] [INFO] 成功读取HUF键值对数据
+[2025-12-05 00:32:24] [INFO] 开始读取HUF位集数据
+[2025-12-05 00:32:24] [INFO] 成功读取HUF位集数据
+[2025-12-05 00:32:24] [INFO] 成功加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:32:24] [ERROR] Decoded count not equal to code number
+[2025-12-05 00:35:31] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:35:31] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:35:31] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:35:31] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:35:31] [INFO] 开始BMP到HUF转换任务: D:\Desktop\bmp\test1.bmp -> D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:35:31] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:35:31] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:35:31] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:35:31] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:35:31] [INFO] 正在保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:35:31] [INFO] 开始写入HUF键值对数据
+[2025-12-05 00:35:31] [INFO] 成功写入HUF键值对数据
+[2025-12-05 00:35:31] [INFO] 开始写入HUF位集数据
+[2025-12-05 00:35:31] [INFO] 成功写入HUF位集数据
+[2025-12-05 00:35:31] [INFO] 成功保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:35:31] [INFO] 完成BMP到HUF转换任务
+[2025-12-05 00:35:31] [INFO] 正在加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:35:31] [INFO] 开始读取HUF键值对数据
+[2025-12-05 00:35:31] [INFO] 成功读取HUF键值对数据
+[2025-12-05 00:35:31] [INFO] 开始读取HUF位集数据
+[2025-12-05 00:35:31] [INFO] 成功读取HUF位集数据
+[2025-12-05 00:35:31] [INFO] 成功加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:35:31] [ERROR] Decoded count not equal to code number
+[2025-12-05 00:40:52] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:40:52] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:40:52] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:40:52] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:40:52] [INFO] 开始BMP到HUF转换任务: D:\Desktop\bmp\test1.bmp -> D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:40:52] [INFO] 正在加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:40:52] [INFO] 开始读取BMP位图数据
+[2025-12-05 00:40:52] [INFO] 成功读取BMP位图数据
+[2025-12-05 00:40:52] [INFO] 成功加载BMP文件: D:\Desktop\bmp\test1.bmp
+[2025-12-05 00:40:52] [INFO] 正在保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:40:52] [INFO] 开始写入HUF键值对数据
+[2025-12-05 00:40:52] [INFO] 成功写入HUF键值对数据
+[2025-12-05 00:40:52] [INFO] 开始写入HUF位集数据
+[2025-12-05 00:40:52] [INFO] 成功写入HUF位集数据
+[2025-12-05 00:40:52] [INFO] 成功保存HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:40:52] [INFO] 完成BMP到HUF转换任务
+[2025-12-05 00:40:52] [INFO] 正在加载HUF文件: D:\Desktop\bmp\test1_output.huf
+[2025-12-05 00:40:52] [INFO] 开始读取HUF键值对数据
+[2025-12-05 00:40:52] [INFO] 成功读取HUF键值对数据
+[2025-12-05 00:40:52] [INFO] 开始读取HUF位集数据
+[2025-12-05 00:40:52] [INFO] 成功读取HUF位集数据
+[2025-12-05 00:40:52] [INFO] 成功加载HUF文件: D:\Desktop\bmp\test1_output.huf
